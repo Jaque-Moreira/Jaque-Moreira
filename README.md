@@ -103,35 +103,35 @@ Bacharelado em Estatística | Anhembi Morumbi (jun 2025)
 Tecnólogo em construção Civil |  FATEC São Paulo (jun 2022)
 
 ## Experiência profissional
-Estágiaria em estudos de mercado | Thymos Energia (fev 2022 - abr 2023)
+**Estágiaria em estudos de mercado | Thymos Energia (fev 2022 - abr 2023)**
 
 Fui estagiária no departamento de pesquisa de mercado de uma consultoria de energia, onde auxiliei no desenvolvimento de relatórios, projetos de pesquisa, orçamentos e apresentações para clientes. Também participei da gestão e atualização de planilhas, e contribui para análises estatísticas e previsões geradas através dos modelos preditivos encadeados Newave, Decomp e Dessem. 
 Essa experiência me proporcionou uma valiosa vivencia em análise de dados e consultoria, além de aprimorar minhas habilidades em análise crítica, comunicação interpessoal e gestão de projetos.
 
-Escriturária Concursada | Banco do Brasil (jan 2015 - fev 2020)
+**Escriturária Concursada | Banco do Brasil (jan 2015 - fev 2020)**
 
 Fui responsável pelo atendimento ao cliente e pela oferta de produtos e serviços. Durante meu período de cinco anos na agência de Caieiras, localizada na região metropolitana de São Paulo, aprimorei minhas habilidades de comunicação, adaptando minha abordagem para atender às diversas necessidades de cada cliente. Além disso, a resolução de problemas e a flexibilidade se tornaram aspectos corriqueiros.
 
 ## Courses and certifications
 
-Certificado Profissional do Google em Data Analytics (jan 2024)  
+* Certificado Profissional do Google em Data Analytics (jan 2024)  
 [Certificado](https://www.coursera.org/account/accomplishments/professional-cert/E4Z83E6DA68B)
 
 
-Introduction To Computer Science and Programming Using Python (out 2021)  
-*MIT -  Massachusetts Institute of Technology, taken through the edX platform.* 
-[Certification](https://courses.edx.org/certificates/ca3b3e6e3b184074b0903dde0198fec6)
+* Introduction To Computer Science and Programming Using Python (out 2021)  
+*MIT -  Massachusetts Institute of Technology, taken through the edX platform.*
+[Certificado](https://courses.edx.org/certificates/ca3b3e6e3b184074b0903dde0198fec6)
 
-Introduction To Probability (out 2021)    
-*Harvard University, taken through the edX platform.*   
-[Certification](https://courses.edx.org/certificates/2fdf33977dda4e5fbebd7b121e1615d9)
+* Introduction To Probability (out 2021)    
+*Harvard University, taken through the edX platform.*
+[Certificado](https://courses.edx.org/certificates/2fdf33977dda4e5fbebd7b121e1615d9)
 
 
-Calculus Applied (nov 2020)  
+* Calculus Applied (nov 2020)  
 *Harvard University, taken through the edX platform.*  
-[Certification](https://courses.edx.org/certificates/e1721d122b6b406ba622e530ef278008)
+[Certificado](https://courses.edx.org/certificates/e1721d122b6b406ba622e530ef278008)
 
-Matemática Aplicada à vida (dez 2019)  
+* Matemática Aplicada à vida (dez 2019)  
 *Museu de Matemática Prandiano*
 
 ## Projects
