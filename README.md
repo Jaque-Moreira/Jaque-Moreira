@@ -112,7 +112,7 @@ Essa experiência me proporcionou uma valiosa vivencia em análise de dados e co
 
 Fui responsável pelo atendimento ao cliente e pela oferta de produtos e serviços. Durante meu período de cinco anos na agência de Caieiras, localizada na região metropolitana de São Paulo, aprimorei minhas habilidades de comunicação, adaptando minha abordagem para atender às diversas necessidades de cada cliente. Além disso, a resolução de problemas e a flexibilidade se tornaram aspectos corriqueiros.
 
-## Courses and certifications
+## Cursos e Certificações
 
 * Certificado Profissional do Google em Data Analytics (jan 2024)  
 [Certificado](https://www.coursera.org/account/accomplishments/professional-cert/E4Z83E6DA68B)
