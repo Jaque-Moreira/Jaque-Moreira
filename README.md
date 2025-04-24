@@ -136,4 +136,5 @@ Fui responsável pelo atendimento ao cliente e pela oferta de produtos e serviç
 
 ## Projects
 [Principais Distribuições de Probabilidade](https://github.com/Jaque-Moreira/Probability_Distributions)
+
 [Monte Carlo Simulation](https://github.com/Jaque-Moreira/Monte_Carlo_Simulation)
