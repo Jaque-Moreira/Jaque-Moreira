@@ -134,7 +134,7 @@ Fui responsável pelo atendimento ao cliente e pela oferta de produtos e serviç
 * Matemática Aplicada à vida (dez 2019)  
 *Museu de Matemática Prandiano*
 
-## Projects
+## Projetos
 [Principais Distribuições de Probabilidade](https://github.com/Jaque-Moreira/Probability_Distributions)
 
 [Monte Carlo Simulation](https://github.com/Jaque-Moreira/Monte_Carlo_Simulation)
