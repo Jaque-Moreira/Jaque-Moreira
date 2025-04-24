@@ -135,3 +135,4 @@ Fui responsável pelo atendimento ao cliente e pela oferta de produtos e serviç
 *Museu de Matemática Prandiano*
 
 ## Projects
+[Principais Distribuições de Probabilidade](https://github.com/Jaque-Moreira/Probability_Distributions)
