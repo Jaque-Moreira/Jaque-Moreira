@@ -140,3 +140,5 @@ Fui responsável pelo atendimento ao cliente e pela oferta de produtos e serviç
 [Monte Carlo Simulation](https://github.com/Jaque-Moreira/Monte_Carlo_Simulation)
 
 [Modelo de Enfleiramento](https://github.com/Jaque-Moreira/Modelo_Enfileiramento)
+
+[Regressão Linear](https://github.com/Jaque-Moreira/linear_regression)
