@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Jaqueline Moreira
+## Estatística e Cientista de dados
 
-Contatos
+### 📞 Contatos
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
