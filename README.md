@@ -1,10 +1,6 @@
 # 👩🏻‍💻 Jaqueline Moreira
 
-**`Estatistica e Analista de Dados`**
-
-Me chamo Jaqueline Moreira, Sou Bacharel em Estatistica e pós graduada em Data Science e Analytics.  
-Sou curiosa, determinada e apaixonada por números <3 
-> Busco aprendizado e novos desafios.
+Estatistica e Analista de Dados
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
@@ -100,22 +96,6 @@ Sou curiosa, determinada e apaixonada por números <3
 MBA em Data Science and Analytics | EASE BRASIL (abr 2023)  
 Bacharelado em Estatística | Anhembi Morumbi (jun 2025)  
 Tecnólogo em construção Civil |  FATEC São Paulo (jun 2022)
-
-## Experiência profissional
-**Estudos de mercado | Thymos Energia (fev 2022 - abr 2023)**
-
-- Desenvolvimento de relatórios analíticos, estudos de mercado e apresentações de resultados para clientes do setor de energia
-- Realização de análises estatísticas preditivas e análises de risco para novos investimentos
-- Tratamento, organização e interpretação de bases de dados para suporte à tomada de decisão
-- Colaboração em projetos de consultoria, aprimorando habilidades analíticas, comunicação e gestão de demandas
-
-**Escriturária Concursada | Banco do Brasil (jan 2015 - fev 2020)**
-
-- Atendimento ao público e comercialização de produtos e serviços financeiros
-- Análise de perfis de clientes para adequação de soluções financeiras
-- Desenvolvimento de comunicação estratégica e resolução de problemas
-- Vivência em ambiente corporativo orientado a metas, processos e qualidade
-
 
 ## Cursos e Certificações
 
