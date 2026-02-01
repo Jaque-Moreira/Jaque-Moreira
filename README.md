@@ -6,7 +6,6 @@ Me chamo Jaqueline Moreira, Sou Bacharel em Estatistica e pós graduada em Data 
 Sou curiosa, determinada e apaixonada por números <3 
 > Busco aprendizado e novos desafios.
 
-
 <p align="left">
     <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
         <img 
@@ -103,14 +102,20 @@ Bacharelado em Estatística | Anhembi Morumbi (jun 2025)
 Tecnólogo em construção Civil |  FATEC São Paulo (jun 2022)
 
 ## Experiência profissional
-**Estágiaria em estudos de mercado | Thymos Energia (fev 2022 - abr 2023)**
+**Estudos de mercado | Thymos Energia (fev 2022 - abr 2023)**
 
-Fui estagiária no departamento de pesquisa de mercado de uma consultoria de energia, onde auxiliei no desenvolvimento de relatórios, projetos de pesquisa, orçamentos e apresentações para clientes. Também participei da gestão e atualização de planilhas, e contribui para análises estatísticas e previsões geradas através dos modelos preditivos encadeados Newave, Decomp e Dessem. 
-Essa experiência me proporcionou uma valiosa vivencia em análise de dados e consultoria, além de aprimorar minhas habilidades em análise crítica, comunicação interpessoal e gestão de projetos.
+-Desenvolvimento de relatórios analíticos, estudos de mercado e apresentações de resultados para clientes do setor de energia
+-Realização de análises estatísticas preditivas e análises de risco para novos investimentos
+-Tratamento, organização e interpretação de bases de dados para suporte à tomada de decisão
+-Colaboração em projetos de consultoria, aprimorando habilidades analíticas, comunicação e gestão de demandas
 
 **Escriturária Concursada | Banco do Brasil (jan 2015 - fev 2020)**
 
-Fui responsável pelo atendimento ao cliente e pela oferta de produtos e serviços. Durante meu período de cinco anos na agência de Caieiras, localizada na região metropolitana de São Paulo, aprimorei minhas habilidades de comunicação, adaptando minha abordagem para atender às diversas necessidades de cada cliente. Além disso, a resolução de problemas e a flexibilidade se tornaram aspectos corriqueiros.
+-Atendimento ao público e comercialização de produtos e serviços financeiros
+-Análise de perfis de clientes para adequação de soluções financeiras
+-Desenvolvimento de comunicação estratégica e resolução de problemas
+-Vivência em ambiente corporativo orientado a metas, processos e qualidade
+
 
 ## Cursos e Certificações
 
@@ -135,6 +140,8 @@ Fui responsável pelo atendimento ao cliente e pela oferta de produtos e serviç
 *Museu de Matemática Prandiano*
 
 ## Projetos
+[Extração OCR e Análise CHAID](https://github.com/Jaque-Moreira/ocr_chaid_project)
+
 [Principais Distribuições de Probabilidade](https://github.com/Jaque-Moreira/Probability_Distributions)
 
 [Monte Carlo Simulation](https://github.com/Jaque-Moreira/Monte_Carlo_Simulation)
