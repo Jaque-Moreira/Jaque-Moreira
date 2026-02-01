@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Jaqueline Moreira
 ## Estatística e Cientista de dados
 
-### 📞 Contatos
+## 📞 Contatos
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jaqueline-v-moreira">
@@ -28,7 +28,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -94,9 +94,9 @@
 
 ## Escolaridade  
 
-MBA em Data Science and Analytics | EASE BRASIL (abr 2023)  
-Bacharelado em Estatística | Anhembi Morumbi (jun 2025)  
-Tecnólogo em construção Civil |  FATEC São Paulo (jun 2022)
+- MBA em Data Science and Analytics | EASE BRASIL (abr 2023)  
+- Bacharelado em Estatística | Anhembi Morumbi (jun 2025)  
+- Tecnólogo em construção Civil |  FATEC São Paulo (jun 2022)
 
 ## Cursos e Certificações
 
